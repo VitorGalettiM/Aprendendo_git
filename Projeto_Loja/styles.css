@@ -46,8 +46,12 @@ body {
     padding: 2rem 1rem;
 }
 
-.hero h2 {
-    font-size: 2rem;
+h2 {
+   text-align: center; /* Centraliza o texto */
+   margin: 20px 0; /* Ajusta o espaçamento superior e inferior */
+   font-size: 2em; /* Tamanho do texto */
+   color: #333; /* Cor do texto (opcional) */
+    
 }
 
 .hero .btn {
